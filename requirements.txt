@@ -1,0 +1,4 @@
+--no-cache-dir streamlit
+textblob
+emoji
+bs4
