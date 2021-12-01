@@ -1,5 +1,5 @@
 
-python==3.8.10
+Python==3.8.10
 beautifulsoup4==4.10.0
 bs4==0.0.1
 emoji==1.6.1
