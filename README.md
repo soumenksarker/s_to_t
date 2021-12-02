@@ -1,4 +1,6 @@
+
 # s_to_t
+Text sentiment classification and emoji extraction
 #run requirements.txt
 #streamlit run app.py
 #upload to github
